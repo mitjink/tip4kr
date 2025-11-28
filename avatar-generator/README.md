@@ -6,6 +6,6 @@
 
 ## Скриншоты
 
-1. **`avatar1.png`** 
-2. **`avatar2.png`** 
-3. **`avatar3.png`**
+1. ![Пример работы программы](screenshots/avatar1.png)
+2. ![Пример работы программы](screenshots/avatar2.png)
+3. ![Пример работы программы](screenshots/avatar3.png)
